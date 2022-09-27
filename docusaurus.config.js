@@ -8,7 +8,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "Cheatsheet",
   tagline: "To infinity and beyond !",
-  url: "https://alban-care.github.io",
+  url: "https://2015tb145-Acare.github.io",
   baseUrl: "/cheatsheet/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -16,7 +16,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "Alban-Care", // Usually your GitHub org/user name.
+  organizationName: "2015tb145-Acare", // Usually your GitHub org/user name.
   projectName: "cheatsheet", // Usually your repo name.
   deploymentBranch: "gh-pages", // Le nom de la branche de déploiement. Par défaut, 'gh-pages' pour les pages GitHub.
   trailingSlash: false, //GitHub Pages ajoute par défaut un slash final aux URL Docusaurus. Il est recommandé de définir une configuration trailingSlash (true ou false, pas undefined).
@@ -38,7 +38,7 @@ const config = {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/Alban-Care/cheatsheet/blob/main/", // Changing the path to repo
+          editUrl: "https://github.com/2015tb145-Acare/cheatsheet/blob/main/", // Changing the path to repo
         },
         blog: false, // Deleting the blog configuration and deactivating it
         theme: {
@@ -89,7 +89,7 @@ const config = {
             label: "+",
           },
           {
-            href: "https://github.com/Alban-Care/cheatsheet/", // Changing the path to repo
+            href: "https://github.com/2015tb145-Acare/cheatsheet/", // Changing the path to repo
             label: "GitHub",
             position: "right",
           },
